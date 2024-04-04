@@ -1,0 +1,1 @@
+This project uses Finnhub api to fetech financial news, preprocess them and join them with stock prices. Using the joined data as trainning set, finetune Google's Bert model to do the sentiment classification for news based on corresponding stock price changes.
